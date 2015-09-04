@@ -1,3 +1,7 @@
+# PhotoSphere Fork
+
+This fork works as a drop-in to render a single photo sphere. Just add a sphere.jpg file to the root directory to create a one-page rendering.
+
 # PHOTOSPHERE
 
 This allows you to view the new Photospheres in Android 4.2 without a problem **without Google+**
